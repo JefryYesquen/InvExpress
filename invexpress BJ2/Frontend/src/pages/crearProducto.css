@@ -1,0 +1,31 @@
+.producto-form {
+  max-width: 500px;
+  margin: 2rem auto;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.producto-form h2 {
+  color: #333;
+  font-weight: 600;
+}
+
+.producto-form .form-control,
+.producto-form .form-select {
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+}
+
+.producto-form .btn {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.producto-form .invalid-feedback {
+  font-size: 0.875rem;
+}
+
+.producto-form p.mensaje {
+  font-weight: 500;
+}
